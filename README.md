@@ -43,18 +43,20 @@ With this rich and diverse collection of data and the robust set of Python libra
 ![image]![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/94ae291b-b460-4f37-afc9-e697a0bb1c4e)
 
 ### Visual 2
-![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/846b80a1-971f-4953-9a2f-66ca243a5b9a)
-### Visual 3
-![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/a88d6f73-4af4-4923-9f0e-d7cb2474a2d9)
-### Visual 4
-![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/36ec9cc5-1edb-4eb4-91d0-a9c141f26fda)
-### Visual 5
-![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/d504dad5-900e-4ce7-a06f-05b3fe1eaa47)
-### Visual 6
-![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/a1f3eaf3-4d0b-4345-90f5-2d9ac3f9baa5)
-### Visual 7
-![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/95baff35-b2cb-43f7-a2f8-b0ddf741beba)
+![image]![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/4eb1150d-295d-4766-8bff-7b8645da598f)
 
+
+A correlaton bellow 0.5 indicates weak correlation, which means a movie could run for over 2 hours and still be rated highly, or have a runtime of below 70 minutes and still be rated highly. From the previous visualizations, remarkable rating could result from the type of genre and also the studio type.
+### Visual 3
+![image]
+### Visual 4
+![image]
+### Visual 5
+![image]
+### Visual 6
+![image]
+### Visual 7
+![image]
 The reason why some studios are more highly rated than others is because some are complex and multifaceted, and can vary based on the individual studio and film.
 
 ### Visual 8
