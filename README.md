@@ -40,23 +40,32 @@ For the analysis and exploration of the movie datasets, Python serves as the pri
 With this rich and diverse collection of data and the robust set of Python libraries utilized, we can explore current box office trends, identify successful film genres, and provide actionable insights to aid Microsoft's new movie studio in making informed decisions about the types of films to create.
 
 ### Visual 1
-![image]![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/94ae291b-b460-4f37-afc9-e697a0bb1c4e)
+![image]!(https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/94ae291b-b460-4f37-afc9-e697a0bb1c4e)
 
 ### Visual 2
-![image]![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/4eb1150d-295d-4766-8bff-7b8645da598f)
-
+![image]!(https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/4eb1150d-295d-4766-8bff-7b8645da598f)
 
 A correlaton bellow 0.5 indicates weak correlation, which means a movie could run for over 2 hours and still be rated highly, or have a runtime of below 70 minutes and still be rated highly. From the previous visualizations, remarkable rating could result from the type of genre and also the studio type.
 ### Visual 3
-![image]
+
+![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/86ed8204-1c8b-4851-8354-be9e0fc5f074)
+
 ### Visual 4
-![image]
+
+![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/c2078de0-4cee-4828-a6a1-f25c8fa8e960)
+
 ### Visual 5
-![image]
+
+![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/5c150334-2de4-41f2-941c-8046aaa8b3cc)
+
 ### Visual 6
-![image]
+
+![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/cd86de6b-8580-408a-a089-600d26fd66a8)
+
 ### Visual 7
-![image]
+
+![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/4a70cd03-1c1b-4277-9b04-5e8e810dd354)
+
 The reason why some studios are more highly rated than others is because some are complex and multifaceted, and can vary based on the individual studio and film.
 
 ### Visual 8
