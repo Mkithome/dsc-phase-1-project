@@ -95,6 +95,6 @@ In conclusion, this project offers valuable recommendations for Microsoft's movi
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook]https://github.com/Mkithome/dsc-phase-1-project/blob/master/student.ipynb or our [presentation].
+Please review our full analysis in [our Jupyter Notebook]https://github.com/Mkithome/dsc-phase-1-project/blob/master/student.ipynb or our [presentation]https://github.com/Mkithome/dsc-phase-1-project/blob/master/Presentation.pdf.
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **Martin Kithome, martin.kithome@student.moringa.com**
