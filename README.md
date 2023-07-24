@@ -69,7 +69,9 @@ A correlaton bellow 0.5 indicates weak correlation, which means a movie could ru
 The reason why some studios are more highly rated than others is because some are complex and multifaceted, and can vary based on the individual studio and film.
 
 ### Visual 8
-![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/64ed5b6c-1796-4261-9722-1cda85119a13)
+
+![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/ce719341-679c-4bc9-b9f2-19e2babfa929)
+
 
 
 
