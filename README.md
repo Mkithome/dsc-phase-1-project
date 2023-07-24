@@ -40,7 +40,8 @@ For the analysis and exploration of the movie datasets, Python serves as the pri
 With this rich and diverse collection of data and the robust set of Python libraries utilized, we can explore current box office trends, identify successful film genres, and provide actionable insights to aid Microsoft's new movie studio in making informed decisions about the types of films to create.
 
 ### Visual 1
-![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/c5bd296c-2917-4e6f-aba3-677316ac33ff)
+![image]![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/94ae291b-b460-4f37-afc9-e697a0bb1c4e)
+
 ### Visual 2
 ![image](https://github.com/Mkithome/dsc-phase-1-project/assets/133040796/846b80a1-971f-4953-9a2f-66ca243a5b9a)
 ### Visual 3
