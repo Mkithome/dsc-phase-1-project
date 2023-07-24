@@ -1,6 +1,6 @@
 # Microsoft Movie Studio Investment
 
-**Authors**: Martin Kithome
+**Author**: Martin Kithome
 
 ## Overview
 
